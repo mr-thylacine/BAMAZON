@@ -91,6 +91,8 @@ For some reason, the animals have no problem eating zombie remains. They're not 
 
 I still don't know why we keep ordering bowties. Maybe it's recursion or something.
 
+![cue groundhog day](images/e.jpg)
+
 ## welcome the menagerie
 
 Okay, I did it. I wanted furry friends, so furry friends I'll get. 8 cats, 6 dogs, 2 raccoons, and another step towards animal army.
