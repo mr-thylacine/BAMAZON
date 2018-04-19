@@ -1,7 +1,7 @@
 # BAMAZON
 april 12, 2018 - a mysql + command-line app that keeps track of item inventory and allows customers to purchase items
 
-### apocalypse: the beginning
+## apocalypse: the beginning
 
 "There's someone at the door." She stands on her tiptoes, peering out the peephole.
 
@@ -19,13 +19,13 @@ She flops back onto the couch and scrolls through her phone. "Don't forget the t
 
 "Yeah, I won't."
 
-### calling for bamazon: the flashback
-
 I type in my credentials, connect to the MySQL server, and open the command line. I scroll through the inventory, hoping that whatever we need is available.
 
 ![awesome inventory](images/p1.jpg)
 
 Ahh, perfect timing! They've restocked everything. The layout could use some improvement, but let's think of it as a way to confuse casual grocery shoppers. I remember when I first learned to use it.
+
+## calling for bamazon: the flashback
 
 "Ew, I'm allergic to numbers."
 
@@ -47,7 +47,7 @@ She punches me lightly on the arm. "I don't see you breaking out every time you 
 
 "Yeah, to like Saturn. Okay, now let's make an order. I wish they sold custard buns."
 
-### stocking up: the present
+## stocking up: the present
 
 I start ordering items from BAMAZON after making sure I'm connected to the database. My stomach growls. I wish BAMAZON sold custard buns, too.
 
@@ -81,7 +81,7 @@ I look at the list again. I don't dare tell her that they don't have toilet pape
 
 "I kind of want to buy some animals."
 
-### misnomers
+## misnomers
 
 The animals are an assortment of kindly, hot-headed, and just plain crazy. That's when intuitive muzzles come in handy - they expand and contract based on their target's snout. They usually work for animals and not so much zombies.
 
@@ -91,7 +91,7 @@ For some reason, the animals have no problem eating zombie remains. They're not 
 
 I still don't know why we keep ordering bowties. Maybe it's recursion or something.
 
-### welcome the menagerie
+## welcome the menagerie
 
 Okay, I did it. I wanted furry friends, so furry friends I'll get. 8 cats, 6 dogs, 2 raccoons, and another step towards animal army.
 
