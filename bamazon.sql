@@ -1,4 +1,4 @@
--- DROP DATABASE IF EXISTS bamazon;
+DROP DATABASE IF EXISTS bamazon;
 
 CREATE DATABASE bamazon;
 
@@ -44,5 +44,11 @@ VALUES (9, 'gauntlet', 'armor', 12, 20);
 
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
 VALUES (10, 'machete', 'weapon', 12, 20);
+
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
+VALUES (11, 'toilet paper', 'cleanup', 12, 50);
+
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity)
+VALUES (12, 'custard buns', 'weapon', 12, 50);
 
 SELECT * FROM products;
